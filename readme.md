@@ -123,3 +123,5 @@ Click Submit.
 
 The DeepSeek R1 model will process the prompt and display the response in the output box.
 
+credit:-https://buymeacoffee.com/rsahan/deepseek-r1-setup-google-colab-using-ollama-server
+
